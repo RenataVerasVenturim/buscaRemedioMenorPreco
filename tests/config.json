@@ -1,0 +1,22 @@
+{
+    "medicamento": {
+        "principio_ativo": "Acido ursodesoxicolico",
+        "concentracao": "300mg",
+        "quantidade_comprimidos": 30,
+        "quantidade_caixas": 3,
+        "marcas_aceitas": [
+            "Ursacol",
+            "Generico",
+            "Ranbaxy"
+        ]
+    },
+    "entrega": {
+        "cep": "24230135"
+    },
+    "monitoramento": {
+        "intervalo_dias": 90,
+        "desconto_alerta": 10,
+        "horario": "09:00",
+        "minimo_observacoes": 7
+    }
+}

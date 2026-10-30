@@ -1,0 +1,68 @@
+[
+  {
+    "productName": "Ácido Ursodesoxicólico 300mg 30 Comprimidos Revestidos Genérico Ranbaxy",
+    "brand": "Ranbaxy",
+    "link": "https://www.paguemenos.com.br/acido-ursodesoxicolico-300mg/p",
+    "items": [
+      {
+        "itemId": "sku-uds-300",
+        "nameComplete": "Ácido Ursodesoxicólico 300mg 30 Comprimidos Revestidos Genérico Ranbaxy",
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Farmácias Pague Menos",
+            "commertialOffer": {
+              "Price": 133.99,
+              "AvailableQuantity": 10,
+              "IsAvailable": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "productName": "Ácido Ursodesoxicólico 150mg 30 Comprimidos Genérico Ranbaxy",
+    "brand": "Ranbaxy",
+    "link": "https://www.paguemenos.com.br/150mg/p",
+    "items": [
+      {
+        "itemId": "sku-uds-150",
+        "nameComplete": "Ácido Ursodesoxicólico 150mg 30 Comprimidos Genérico Ranbaxy",
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Farmácias Pague Menos",
+            "commertialOffer": {
+              "Price": 65.99,
+              "AvailableQuantity": 10,
+              "IsAvailable": true
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "productName": "Ácido Alfa Lipóico 300mg 60 cápsulas",
+    "brand": "Miligrama",
+    "link": "https://www.paguemenos.com.br/alfa/p",
+    "items": [
+      {
+        "itemId": "sku-alfa",
+        "nameComplete": "Ácido Alfa Lipóico 300mg 60 cápsulas",
+        "sellers": [
+          {
+            "sellerId": "1",
+            "sellerName": "Farmácias Pague Menos",
+            "commertialOffer": {
+              "Price": 45.05,
+              "AvailableQuantity": 99,
+              "IsAvailable": true
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

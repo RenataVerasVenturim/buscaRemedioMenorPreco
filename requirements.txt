@@ -1,0 +1,8 @@
+# O projeto ainda nao possui dependencias externas.
+streamlit
+pandas
+plotly
+requests
+beautifulsoup4
+python-dotenv
+pytest
